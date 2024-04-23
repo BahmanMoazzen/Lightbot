@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65925ecdd5ca7414caf26523d49c4ed7, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  EmptyPlatformPrefab: {fileID: 6737630204888472976, guid: f4f96a43da439784eaca5c9ca9264a9f, type: 3}
+  PlatformDatas:
+  - {fileID: 11400000, guid: f69559d5aa5bcbf45a66aaf1040d0ccc, type: 2}
+  - {fileID: 11400000, guid: 20506e3ba5644f544b6edbdd37c2db62, type: 2}
+  - {fileID: 11400000, guid: 7eb1cc76a1d45d046a8c953ecd425e74, type: 2}
+  - {fileID: 11400000, guid: f1792a43be26e044b8cac5d5567e22d9, type: 2}
+  - {fileID: 11400000, guid: 2a99ef7cf70216c4a8ed0de224ec9f62, type: 2}
+  - {fileID: 11400000, guid: f0b3e73837403a546b0116d8f0d1a6c2, type: 2}
+  - {fileID: 11400000, guid: 09eee5f889c527045af18800c8b9c5fc, type: 2}
+  - {fileID: 11400000, guid: 73c0371072f5a1b4b9306f8040dfd856, type: 2}
+  - {fileID: 11400000, guid: bdf9c3a0b6d63394292738dd2158d9e5, type: 2}
+  - {fileID: 11400000, guid: bf3cfe756ed67c74b912938c30dcc4a8, type: 2}
+  - {fileID: 11400000, guid: c3a51b4054c21c246836539300aaaa1d, type: 2}
+  - {fileID: 11400000, guid: a66c9f684bf5ef9458f5951f062901f3, type: 2}
+  - {fileID: 11400000, guid: a42f6220b21a7c947bd33811d04a9d50, type: 2}
+  - {fileID: 11400000, guid: 9c05b44f1ef7c7c4cbd901f8aea4f406, type: 2}
+  - {fileID: 11400000, guid: 0921bf219c0b9ea48acc0aa62b645894, type: 2}
+  RobotPrefab: {fileID: 157834347063733699, guid: 38d2d5b8cdf34024aa37124bcee3bc31, type: 3}
+  RobotSprites:
+  - {fileID: 7821765336875679409, guid: f4235c64d91d5ef4a9c6f0e5d8714d6c, type: 3}
+  - {fileID: 6343081190574463788, guid: f4235c64d91d5ef4a9c6f0e5d8714d6c, type: 3}
+  - {fileID: 5887606927087092321, guid: f4235c64d91d5ef4a9c6f0e5d8714d6c, type: 3}
+  - {fileID: 202386789943983446, guid: f4235c64d91d5ef4a9c6f0e5d8714d6c, type: 3}
+  MechanicSprites:
+  - {fileID: 3825659565728018792, guid: f4235c64d91d5ef4a9c6f0e5d8714d6c, type: 3}
+  - {fileID: -987577531772634768, guid: f4235c64d91d5ef4a9c6f0e5d8714d6c, type: 3}
+  - {fileID: 252861305306504218, guid: f4235c64d91d5ef4a9c6f0e5d8714d6c, type: 3}
+  - {fileID: 4065347143585402739, guid: f4235c64d91d5ef4a9c6f0e5d8714d6c, type: 3}
+  - {fileID: -2107124941412900257, guid: f4235c64d91d5ef4a9c6f0e5d8714d6c, type: 3}
+  - {fileID: 8009876107933253798, guid: f4235c64d91d5ef4a9c6f0e5d8714d6c, type: 3}
+  MovementFactor: {x: 0.46, y: -0.23}
+  DepthFactor: {x: -0.46, y: -0.23}
+  AllLevels:
+  - {fileID: 11400000, guid: 9b2cba922ab33e743bb924157489d9af, type: 2}
+  - {fileID: 11400000, guid: abe070bba8925b9458e63c21576cdf29, type: 2}
+  - {fileID: 11400000, guid: 0489b4e0f922a7346aa71fd1729c2028, type: 2}
+  - {fileID: 11400000, guid: 6c5f486611d7fbd47b24912b439b0e08, type: 2}
+  - {fileID: 11400000, guid: 7542245065a78f940b65e34f28c86214, type: 2}
+  - {fileID: 11400000, guid: 9df3bbbc0945f9240ada447d9a6218d2, type: 2}
+  - {fileID: 11400000, guid: 5642e9a68fc6c1a45b9699bf66039396, type: 2}
+  - {fileID: 11400000, guid: 071bb7cdb3140bb41b4ba589541e5aa3, type: 2}
+  - {fileID: 11400000, guid: ddd089b3e69465544b00d4f9dd42bdeb, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca75038f8cf776b49a73c75e9742fd13, type: 3}
+  m_Name: LVL 0
+  m_EditorClassIdentifier: 
+  _LevelName: Level 0
+  _LevelMap: {fileID: 4900000, guid: 1ccc8b09cfbebbb40b047a804c3e7980, type: 3}
+  _RobotPosition: {x: 0, y: 0}
+  _StartingRotation: 3
+  _TimeRequired: 0
+  _isTutorial: 0
+  _isLocked: 0
+  _isPlayed: 0
+  _completionTime: 0
+  _bestPersonalTime: 0
+  _numberOfTries: 0
